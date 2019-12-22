@@ -1,2 +1,4 @@
 # cpiapi
-cpi api to connet mongo DB
+An API to connect Mongo DB Atlas via SAP CPI
+
+Methods
